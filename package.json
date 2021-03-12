@@ -1,0 +1,24 @@
+{
+  "name": "nodeintro",
+  "version": "1.0.0",
+  "description": "NodeIntro package",
+  "main": "index.js",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinSingleton303/NodeIntro.git"
+  },
+  "author": "Justin Singleton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinSingleton303/NodeIntro/issues"
+  },
+  "homepage": "https://github.com/JustinSingleton303/NodeIntro#readme"
+}
